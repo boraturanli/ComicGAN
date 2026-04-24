@@ -3,6 +3,7 @@
 A modified Pix2Pix architecture for translating facial photographs into comic-style images. Built as part of the Machine Learning course at Vrije Universiteit Amsterdam.
 
 **Full paper:** in repo files
+
 **Kaggle notebook:** [kaggle.com/code/rohanshreyasmenon/comicgan](https://www.kaggle.com/code/rohanshreyasmenon/comicgan)
 
 ---
